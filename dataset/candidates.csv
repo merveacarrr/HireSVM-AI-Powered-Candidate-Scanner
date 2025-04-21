@@ -1,0 +1,501 @@
+full_name,experience_years,technical_score,cyber_score,dry_code,cpu_optimized,library,sustainability_score,education_level,english_level,hired
+Monica Garcia,5.6,24,1.0,False,False,tensorflow,0.4,bachelor's degree,C2,1
+Cheryl Reed,11.0,70,0.6,True,False,torch,0.4,bachelor's degree,B2,1
+Mrs. Penny Smith,9.0,92,1.0,True,True,keras,0.42,master's degree,B2,1
+Jacob Davis,1.5,84,0.6,False,True,torch,0.4,master's degree,C1,1
+Edward Webb,13.0,33,0.8,False,True,torch,0.4,master's degree,B2,1
+Christopher Juarez,9.8,62,0.8,True,False,keras,0.48,bachelor's degree,C1,1
+Rebekah Griffin,14.5,39,0.4,False,False,tensorflow,0.4,bachelor's degree,C2,0
+Donna Zimmerman,3.2,73,0.8,True,False,tensorflow,0.4,bachelor's degree,B1,1
+John Jones,14.9,42,0.7,True,True,torch,0.4,master's degree,C1,1
+Ronald Murray,4.6,31,0.5,True,True,torch,0.4,master's degree,B1,0
+Michael Anderson,0.1,98,1.0,True,True,theano,0.48,master's degree,B2,1
+Corey Garcia,4.4,68,0.6,True,False,torch,0.4,bachelor's degree,B2,1
+Andrew French,6.0,69,0.8,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Donna Horne DDS,5.5,71,1.0,True,False,tensorflow,0.4,PhD,B1,1
+Andrew Thompson,1.4,71,0.5,False,True,keras,0.5,bachelor's degree,C1,1
+Alan Rodriguez,3.0,64,0.5,False,False,torch,0.4,master's degree,B1,0
+Alison Smith,14.7,12,0.5,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Kathleen Hancock,12.9,16,0.5,True,False,torch,0.4,bachelor's degree,B2,1
+Caleb Sullivan,2.6,48,0.5,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Brandon Simon,0.2,98,0.8,True,False,torch,0.4,bachelor's degree,B1,0
+Carlos Scott,14.5,18,0.5,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Christine Juarez,0.2,11,0.5,True,False,tensorflow,0.4,bachelor's degree,A2,0
+Tyler York,10.3,69,0.8,False,False,torch,0.4,master's degree,C1,1
+Aaron Henry,1.8,17,0.7,False,True,keras,0.47,bachelor's degree,C1,0
+Leah Parker,0.5,87,1.0,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Michelle Mann,5.9,59,0.5,False,True,tensorflow,0.4,master's degree,C1,1
+Kathleen Wagner,9.9,11,1.0,True,True,torch,0.4,master's degree,C2,1
+Crystal Schroeder,6.4,63,0.6,True,False,theano,0.45,bachelor's degree,C1,1
+Shawn Burgess,8.2,63,1.0,True,True,keras,0.41,master's degree,B1,0
+Jaime Wood,0.5,27,0.2,True,False,torch,0.4,master's degree,B1,0
+Nicholas Ramos,11.6,43,0.7,True,False,torch,0.4,bachelor's degree,B1,0
+Tracy Valdez,5.9,23,0.5,False,False,tensorflow,0.4,master's degree,C1,1
+Tina Potts,10.9,24,0.5,False,False,tensorflow,0.4,master's degree,C1,1
+Thomas Coleman,1.3,96,1.0,True,False,tensorflow,0.4,bachelor's degree,A2,0
+John King,7.8,71,0.8,True,True,theano,0.45,master's degree,C1,1
+Scott Rice,4.9,89,0.8,False,True,theano,0.45,master's degree,B2,1
+Michael Rodriguez,11.2,62,0.7,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Brianna Harris,8.8,98,0.7,True,False,tensorflow,0.4,bachelor's degree,A2,1
+Marc Klein,4.2,50,0.5,True,False,tensorflow,0.4,master's degree,C1,1
+Angel Thomas,4.4,54,0.5,True,True,tensorflow,0.4,master's degree,B2,1
+Charles Mills,1.1,80,0.6,True,True,keras,0.5,PhD,C1,1
+Theresa Jarvis,6.4,10,0.8,True,False,keras,0.44,bachelor's degree,B2,1
+Gregg Thomas,3.0,97,0.5,False,False,tensorflow,0.4,master's degree,B1,1
+Susan Baker,0.2,90,1.0,False,False,torch,0.4,PhD,C1,1
+Jessica James,10.7,44,1.0,False,True,torch,0.4,bachelor's degree,B2,1
+Ann Clark,11.6,14,0.7,True,False,torch,0.4,bachelor's degree,B2,1
+Misty Beard,13.9,50,1.0,False,True,torch,0.4,bachelor's degree,C1,1
+Walter Perry,13.7,82,0.7,True,False,tensorflow,0.4,master's degree,B2,1
+Amy Lawson,9.3,43,0.8,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Brandon Conley,1.4,32,0.8,False,False,keras,0.49,master's degree,A2,0
+Matthew Jones,10.0,46,1.0,True,False,keras,0.48,bachelor's degree,B1,0
+Debra Bartlett,10.9,95,0.8,False,False,tensorflow,0.4,bachelor's degree,B1,1
+Douglas Campbell,13.3,74,0.7,False,False,tensorflow,0.4,bachelor's degree,C2,1
+Ryan Cook,5.7,56,0.8,True,True,torch,0.4,bachelor's degree,B2,1
+Stephanie Dixon,10.7,10,0.8,True,True,keras,0.46,master's degree,C1,1
+Eric Lambert,10.8,23,0.7,True,True,tensorflow,0.4,bachelor's degree,C1,1
+Marie Thornton,7.4,18,0.8,False,False,keras,0.45,master's degree,A2,0
+Tyler Martinez,10.7,99,1.0,False,False,tensorflow,0.4,bachelor's degree,C1,1
+Matthew Andrews,0.4,86,0.8,True,True,tensorflow,0.4,master's degree,A2,0
+Ariel Rojas,3.0,61,1.0,False,False,theano,0.48,bachelor's degree,B1,0
+Catherine Padilla,8.4,13,0.3,True,True,theano,0.44,bachelor's degree,C1,0
+Sandra Pace,13.6,32,0.8,True,True,tensorflow,0.4,bachelor's degree,C2,1
+Michael Newman,9.1,24,0.6,True,True,keras,0.43,master's degree,C1,1
+Perry Adams,11.3,45,0.5,True,True,tensorflow,0.4,master's degree,C1,1
+Randy Gates,14.1,80,0.5,True,False,keras,0.42,master's degree,B1,1
+Jacob Montgomery,4.3,95,0.6,True,True,theano,0.42,bachelor's degree,B2,1
+Dr. Stuart Richards MD,13.2,51,0.5,False,True,keras,0.44,bachelor's degree,C1,1
+Morgan Melton,12.1,66,0.5,True,True,torch,0.4,bachelor's degree,B2,1
+Scott Reeves,1.6,37,0.5,True,True,torch,0.4,bachelor's degree,B1,0
+Mrs. Sandra Owens,12.1,53,0.5,False,False,theano,0.48,master's degree,B1,0
+Lindsay Perkins,6.2,71,0.5,True,True,tensorflow,0.4,bachelor's degree,C1,1
+Nancy Chaney,8.1,98,0.8,True,False,keras,0.44,master's degree,C1,1
+Charles Kim,4.8,10,0.8,True,True,tensorflow,0.4,master's degree,C2,1
+Zachary Brown,3.4,71,0.2,True,False,tensorflow,0.4,bachelor's degree,C2,1
+Sara Smith,0.0,86,0.6,False,False,tensorflow,0.4,master's degree,A2,0
+Nicole Hernandez,12.9,79,0.8,True,True,tensorflow,0.4,bachelor's degree,A2,1
+Robert Brooks,7.7,18,0.8,True,False,tensorflow,0.4,master's degree,B2,1
+Rachel Sutton,7.3,60,0.5,True,True,tensorflow,0.4,master's degree,C1,1
+Julie Rose,4.0,33,0.3,True,False,torch,0.4,bachelor's degree,C2,0
+Jeremy Herrera,14.1,41,0.7,False,True,torch,0.4,bachelor's degree,B1,0
+Angela Nguyen,7.8,61,1.0,True,True,torch,0.4,master's degree,B2,1
+Heather Smith,5.5,67,0.5,False,False,torch,0.4,bachelor's degree,C1,1
+Jason Sanders,14.4,48,0.8,True,False,torch,0.4,bachelor's degree,B2,1
+Kelly Olson,7.5,65,0.5,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Diane Thomas,0.6,11,0.6,False,True,torch,0.4,bachelor's degree,B1,0
+Roger Page,7.5,63,0.2,False,False,torch,0.4,bachelor's degree,B2,0
+Sara Jordan,0.5,10,0.8,True,False,tensorflow,0.4,bachelor's degree,A2,0
+Luis Harding,3.6,11,0.6,False,False,torch,0.4,master's degree,B2,1
+Leslie Jensen,8.0,99,0.8,True,False,tensorflow,0.4,bachelor's degree,B1,1
+Troy Fox,14.8,41,0.3,True,False,torch,0.4,bachelor's degree,C2,0
+Richard Henry,8.9,64,0.7,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Darin Baker,11.4,26,0.5,True,True,torch,0.4,bachelor's degree,B1,0
+Joshua Palmer,10.9,33,0.6,True,False,torch,0.4,PhD,B2,1
+John Watts,7.1,79,0.7,True,False,torch,0.4,PhD,B2,1
+Wendy Pollard,6.0,25,0.5,False,True,tensorflow,0.4,PhD,B2,1
+Christina Murphy,12.5,68,1.0,True,False,torch,0.4,bachelor's degree,C1,1
+Curtis Collier,2.8,12,0.5,False,True,keras,0.49,master's degree,B2,0
+Tracy Miller,8.9,68,1.0,True,False,torch,0.4,PhD,B2,1
+Michael Lewis,3.3,99,0.8,False,True,keras,0.48,master's degree,C1,1
+Anthony Butler,7.7,28,0.4,False,True,torch,0.4,bachelor's degree,C1,0
+Jonathan Sherman,5.2,80,0.5,True,True,tensorflow,0.4,bachelor's degree,B2,1
+James Allen,2.6,42,1.0,True,False,theano,0.47,PhD,B2,0
+Dawn Nguyen,6.0,48,0.8,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Diane Freeman,14.1,10,0.7,False,True,keras,0.47,bachelor's degree,B2,1
+Jocelyn Bridges,10.1,66,0.8,True,False,keras,0.5,bachelor's degree,B2,1
+Jennifer Patel,1.7,32,0.7,True,True,torch,0.4,PhD,C1,0
+Joseph Jordan,8.1,51,0.8,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Deborah Rowe,3.9,25,0.7,True,False,tensorflow,0.4,master's degree,C1,1
+Heather Holmes,12.3,69,0.2,True,True,torch,0.4,master's degree,B1,0
+Daniel Miller,3.9,10,1.0,True,False,theano,0.42,PhD,C1,1
+Martha Bond,1.4,21,1.0,True,False,tensorflow,0.4,master's degree,C2,0
+John Obrien,8.4,41,0.7,False,True,tensorflow,0.4,master's degree,B1,0
+Maurice Nichols,9.5,18,0.7,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Aaron Garcia,4.2,28,0.6,False,False,tensorflow,0.4,bachelor's degree,C1,1
+Harold Juarez,10.9,12,0.8,True,True,keras,0.48,bachelor's degree,A2,0
+Peter Morales,12.8,63,0.8,False,True,torch,0.4,bachelor's degree,B2,1
+Mrs. Melinda Riley,11.7,33,0.0,False,False,tensorflow,0.4,master's degree,C2,0
+Christine Davis,12.8,81,1.0,True,False,tensorflow,0.4,master's degree,C1,1
+Dustin Bernard,11.8,93,0.7,True,True,torch,0.4,bachelor's degree,B2,1
+Gina Jackson,8.7,98,0.7,True,True,theano,0.45,bachelor's degree,C2,1
+Jeanette Smith,10.0,27,0.5,False,True,keras,0.44,master's degree,A2,0
+William Rivera,2.4,91,0.7,False,True,torch,0.4,PhD,C1,1
+Haley Wright,7.3,44,0.8,True,True,torch,0.4,bachelor's degree,C2,1
+Troy Petersen MD,9.8,50,1.0,False,False,tensorflow,0.4,bachelor's degree,B2,1
+Valerie Woods,2.6,77,0.8,True,False,torch,0.4,bachelor's degree,A2,0
+Marco Baker,3.6,30,0.7,True,False,tensorflow,0.4,master's degree,C2,1
+Jennifer Lynch,2.7,17,0.8,False,False,tensorflow,0.4,master's degree,C2,0
+Peggy Watkins,12.7,26,0.7,True,False,tensorflow,0.4,bachelor's degree,B1,0
+Danielle Giles,4.6,57,1.0,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Robert Watson,1.4,95,1.0,False,False,torch,0.4,bachelor's degree,C1,1
+Danielle Harrington,4.0,39,1.0,False,True,tensorflow,0.4,master's degree,A2,0
+Katherine Norton,14.6,60,0.5,False,True,tensorflow,0.4,master's degree,B2,1
+Steven Ibarra,13.4,36,0.8,True,True,tensorflow,0.4,master's degree,B2,1
+Brian Carter,6.5,30,0.8,False,True,theano,0.42,bachelor's degree,B2,1
+Karen Smith,7.5,37,1.0,True,False,tensorflow,0.4,master's degree,C1,1
+Thomas Wise,10.0,78,0.7,True,False,keras,0.44,bachelor's degree,B1,1
+Lisa Richardson,3.5,57,0.6,False,False,torch,0.4,bachelor's degree,B2,1
+Timothy Walker,4.2,44,0.7,True,True,torch,0.4,master's degree,B2,1
+Shane Garza,11.5,26,0.7,True,False,torch,0.4,master's degree,B1,0
+Bradley Harper,14.9,39,1.0,False,True,tensorflow,0.4,PhD,B1,0
+Wendy Mcintyre,14.3,15,0.8,True,False,theano,0.45,bachelor's degree,B1,0
+Dr. Heidi Johnson,5.6,46,0.6,False,True,theano,0.46,bachelor's degree,A2,0
+Brandon Rodriguez,13.9,55,0.5,False,False,tensorflow,0.4,bachelor's degree,B2,1
+Hector Ruiz,14.5,69,0.8,True,True,tensorflow,0.4,master's degree,C1,1
+Jordan Guzman,12.8,72,1.0,True,False,tensorflow,0.4,master's degree,A2,1
+William Dennis,4.6,41,0.8,True,False,torch,0.4,bachelor's degree,C2,1
+Morgan Ruiz,12.8,76,1.0,False,True,torch,0.4,master's degree,B2,1
+Robert Powell,2.5,34,0.5,True,True,keras,0.42,bachelor's degree,C1,0
+Michelle Kim,5.9,63,0.3,True,True,keras,0.46,PhD,A2,0
+Candice Nixon,10.4,55,0.5,True,True,torch,0.4,bachelor's degree,C2,1
+Megan Perez,1.5,41,0.7,False,False,torch,0.4,PhD,B2,0
+Ryan Mckenzie,10.1,32,0.7,False,True,tensorflow,0.4,master's degree,C1,1
+Ellen Brandt,2.1,36,1.0,False,False,tensorflow,0.4,bachelor's degree,C2,0
+Thomas Russell,4.4,99,0.8,True,False,tensorflow,0.4,bachelor's degree,B2,1
+Dr. Jimmy Lee III,11.1,42,0.8,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Jeffrey Lawrence,2.0,57,0.7,False,False,torch,0.4,master's degree,C2,0
+Victor Palmer,8.3,51,0.7,False,False,theano,0.42,PhD,C1,1
+Travis Smith,12.1,59,1.0,True,False,keras,0.44,bachelor's degree,A2,0
+Adam Harris,13.0,22,0.8,True,True,torch,0.4,PhD,C2,1
+Samuel Foster,1.2,16,0.2,False,True,torch,0.4,bachelor's degree,B2,0
+Dr. Nicole Williamson,7.5,54,0.7,False,True,torch,0.4,master's degree,C2,1
+Teresa Pearson,2.9,17,0.8,False,False,tensorflow,0.4,bachelor's degree,C1,0
+Debra Brewer,10.5,25,1.0,True,True,torch,0.4,bachelor's degree,C1,1
+John Gardner,0.8,96,0.8,False,False,keras,0.45,bachelor's degree,A2,0
+Brittany Coleman,0.4,75,0.5,True,False,torch,0.4,bachelor's degree,C1,1
+Denise Young,6.6,72,0.3,True,True,tensorflow,0.4,master's degree,C2,1
+Erin Nelson,0.5,34,1.0,False,False,keras,0.43,bachelor's degree,C2,0
+Amy Valdez,2.3,71,0.8,True,False,keras,0.47,bachelor's degree,C1,1
+George Miranda,4.3,67,1.0,True,False,tensorflow,0.4,PhD,C2,1
+Erika Mcknight,12.9,58,0.8,True,False,torch,0.4,PhD,A2,0
+Keith Martin,0.6,79,1.0,False,False,theano,0.43,master's degree,C1,1
+David Johnson,4.5,69,0.5,True,False,tensorflow,0.4,master's degree,C1,1
+Melissa Hancock,4.9,17,0.7,True,False,keras,0.47,bachelor's degree,C1,1
+Kenneth Johnson,11.5,14,0.4,True,True,tensorflow,0.4,master's degree,B2,0
+Kayla Harris,6.9,15,0.5,True,False,tensorflow,0.4,master's degree,C2,1
+Eric Harrison,0.8,56,0.5,True,False,torch,0.4,master's degree,B1,0
+Tanya Meyer,10.5,49,0.7,True,True,torch,0.4,master's degree,B1,0
+Wesley Sanchez,10.9,22,0.8,True,False,tensorflow,0.4,master's degree,C1,1
+Teresa Boyd,14.5,39,0.5,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Jason Trujillo,0.6,72,1.0,True,True,theano,0.45,master's degree,C2,1
+Keith Miller,6.5,67,0.5,True,True,torch,0.4,bachelor's degree,C2,1
+Angel Allen,1.2,99,0.5,True,False,tensorflow,0.4,master's degree,B1,0
+Susan Kaufman,14.4,32,1.0,True,True,keras,0.44,bachelor's degree,B2,1
+Virginia Russell,6.4,21,0.5,True,True,tensorflow,0.4,master's degree,B2,1
+Aimee Jackson,6.1,67,0.7,True,False,torch,0.4,bachelor's degree,C2,1
+Christopher Dean,13.7,43,0.7,False,True,torch,0.4,bachelor's degree,B1,0
+Taylor Stephenson,3.6,57,0.5,True,False,tensorflow,0.4,master's degree,B1,0
+Douglas Reynolds,2.7,10,0.8,True,True,torch,0.4,PhD,B2,0
+Megan Kramer,14.3,73,1.0,True,False,tensorflow,0.4,bachelor's degree,C2,1
+Elizabeth Waters,8.3,31,0.8,False,True,tensorflow,0.4,master's degree,C2,1
+Crystal Morris,11.0,76,0.8,True,True,keras,0.49,bachelor's degree,C1,1
+Juan Johnson,3.7,25,0.5,False,False,keras,0.41,bachelor's degree,B2,1
+April Turner,2.4,95,0.8,True,True,torch,0.4,bachelor's degree,A2,0
+Anita Fitzgerald,0.2,87,1.0,True,False,tensorflow,0.4,PhD,A2,0
+Michael Miller,1.4,56,0.8,True,True,tensorflow,0.4,PhD,B2,0
+Mrs. Rachel Wood,0.6,71,0.8,True,False,tensorflow,0.4,master's degree,B2,1
+Clifford Ochoa,10.6,85,0.3,False,False,tensorflow,0.4,bachelor's degree,B2,1
+Alexandra Church,0.3,99,0.8,False,False,tensorflow,0.4,bachelor's degree,C2,1
+Barry Blair,7.4,48,0.8,True,True,torch,0.4,bachelor's degree,B2,1
+Isaac Black,5.2,32,0.7,True,True,torch,0.4,bachelor's degree,C2,1
+Cynthia Poole,0.7,78,0.6,True,True,theano,0.5,bachelor's degree,C1,1
+Susan Smith,13.3,61,0.6,True,True,keras,0.41,bachelor's degree,B2,1
+Jared Medina,5.6,28,1.0,True,True,theano,0.48,PhD,C1,1
+Brandon Rodriguez,7.5,10,0.8,True,True,keras,0.46,bachelor's degree,B1,0
+Dustin Kim,8.1,13,0.5,True,True,keras,0.42,master's degree,B1,0
+William Johnson,9.2,89,1.0,True,True,torch,0.4,master's degree,B1,1
+Robert Dominguez,9.6,41,1.0,True,True,theano,0.47,bachelor's degree,B1,0
+Dillon Hernandez,14.1,33,0.5,True,False,keras,0.49,bachelor's degree,C1,1
+Lori Wilson,10.2,44,0.4,True,False,tensorflow,0.4,bachelor's degree,B2,0
+Cynthia Sanchez,9.6,42,0.8,False,True,tensorflow,0.4,bachelor's degree,B1,0
+Steven Carney,12.2,52,0.7,True,False,torch,0.4,bachelor's degree,B1,0
+Jason Davidson,14.1,76,0.2,True,False,tensorflow,0.4,bachelor's degree,B1,0
+Hayley Jacobs,12.3,49,0.7,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Christina Contreras,13.6,53,1.0,True,False,keras,0.49,bachelor's degree,B2,1
+Amanda Estrada,4.1,21,0.6,False,True,torch,0.4,bachelor's degree,C1,1
+Rebecca Fritz,1.5,11,1.0,True,True,keras,0.43,master's degree,B1,0
+Darlene Dominguez,0.6,44,0.5,True,False,keras,0.44,bachelor's degree,A2,0
+Daniel Swanson,5.0,99,0.7,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Gary Peterson,4.8,35,0.8,False,True,keras,0.43,bachelor's degree,C2,1
+Christie Hines DVM,10.2,43,0.6,True,True,keras,0.48,PhD,B2,1
+James Trujillo,3.9,16,0.5,True,False,keras,0.45,bachelor's degree,B2,1
+William Miller,1.8,84,0.5,False,True,keras,0.49,bachelor's degree,B2,1
+Robert Mcclain,13.2,45,0.8,True,False,tensorflow,0.4,bachelor's degree,B1,0
+Kevin Allen,6.3,45,1.0,False,True,keras,0.48,master's degree,B1,0
+Ms. Cheryl Jackson,2.7,82,0.3,False,False,torch,0.4,PhD,B1,0
+Jason Contreras,8.5,58,0.8,True,False,tensorflow,0.4,bachelor's degree,B1,0
+Anthony Roberson,11.0,45,0.4,False,True,tensorflow,0.4,PhD,A2,0
+David Turner,5.6,33,1.0,True,False,keras,0.43,master's degree,B1,0
+Sonya Knox,13.0,46,1.0,True,False,keras,0.42,master's degree,B1,0
+Stephanie Ayers,3.6,64,1.0,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Taylor Lara,11.3,98,0.8,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Destiny Harris,3.6,39,0.5,True,True,torch,0.4,PhD,C1,1
+Rachel Griffin,13.5,71,0.5,True,True,torch,0.4,bachelor's degree,B1,1
+Diamond Hernandez,7.4,98,1.0,True,True,torch,0.4,bachelor's degree,B1,1
+Jessica Greene,4.8,68,1.0,True,False,tensorflow,0.4,bachelor's degree,C2,1
+Courtney Williams,1.5,21,0.7,True,True,torch,0.4,bachelor's degree,B1,0
+Susan Mendoza,14.4,28,0.8,False,True,tensorflow,0.4,bachelor's degree,A2,0
+Melissa Kline,1.4,80,1.0,True,True,keras,0.44,bachelor's degree,B2,1
+Michelle Garner,14.4,61,0.8,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Maria Fritz,8.6,25,0.8,True,False,keras,0.42,bachelor's degree,C1,1
+Jonathan Holloway,6.7,21,1.0,True,True,keras,0.47,master's degree,B2,1
+Jason Davidson,4.9,94,0.7,True,True,torch,0.4,master's degree,A2,1
+David Stone,11.3,32,1.0,True,False,tensorflow,0.4,master's degree,C1,1
+Daniel Johnson,11.7,48,0.6,False,False,theano,0.43,bachelor's degree,C1,1
+Carolyn Henry,1.4,51,0.8,False,False,tensorflow,0.4,bachelor's degree,C1,0
+Patty Thompson,14.6,23,1.0,False,False,torch,0.4,bachelor's degree,C1,1
+Kaitlyn Wu,8.2,14,1.0,True,True,theano,0.42,bachelor's degree,B2,1
+Christopher Snyder,11.1,84,0.7,True,False,tensorflow,0.4,bachelor's degree,B2,1
+Debra Wilson,1.8,85,1.0,False,False,keras,0.48,master's degree,C1,1
+Monica Torres,10.3,67,0.4,True,True,torch,0.4,master's degree,C1,0
+Donna Barnett,9.3,16,0.5,True,False,torch,0.4,master's degree,C2,1
+Lauren Carson,6.4,49,0.8,False,True,theano,0.45,bachelor's degree,B2,1
+John Davenport,1.1,59,1.0,False,True,tensorflow,0.4,PhD,B1,0
+Alicia Ibarra,13.4,75,0.7,True,True,tensorflow,0.4,master's degree,C2,1
+Carolyn Sanchez,1.2,46,0.7,False,True,keras,0.41,bachelor's degree,A2,0
+Tonya Nichols,3.5,17,0.6,True,False,torch,0.4,bachelor's degree,B2,1
+Kaylee Carpenter,5.6,74,0.8,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Joshua Colon,13.2,26,1.0,True,False,keras,0.46,master's degree,B1,0
+Donald Pollard,14.2,98,1.0,True,True,torch,0.4,bachelor's degree,A2,1
+Angela Burke,8.9,45,0.7,False,True,torch,0.4,bachelor's degree,B1,0
+Brian Haynes,5.6,40,0.7,True,True,torch,0.4,master's degree,C2,1
+Lisa Spence,7.2,63,1.0,True,True,keras,0.45,master's degree,A2,0
+Cassandra Jackson,10.6,83,0.5,True,False,torch,0.4,master's degree,A2,1
+Caitlin Ingram,13.6,48,1.0,True,True,torch,0.4,bachelor's degree,B1,0
+Jeffrey Douglas,6.5,54,0.7,True,False,keras,0.5,bachelor's degree,C2,1
+Joe Martinez,0.2,67,1.0,True,True,tensorflow,0.4,bachelor's degree,B2,0
+David Thompson,11.1,81,0.3,False,False,torch,0.4,master's degree,B2,1
+Roy Walker,1.8,48,0.7,True,True,tensorflow,0.4,master's degree,A2,0
+Lindsey Williams,11.2,86,1.0,False,True,keras,0.45,bachelor's degree,A2,1
+Amber Smith,3.6,72,0.3,True,False,tensorflow,0.4,bachelor's degree,B2,1
+Leon Roberts,7.2,34,0.5,True,False,torch,0.4,bachelor's degree,B2,1
+Richard Wood,13.0,47,0.7,True,True,theano,0.41,bachelor's degree,A2,0
+Shawn Parker,6.5,67,0.2,True,False,tensorflow,0.4,bachelor's degree,B1,0
+Patrick Parks,0.2,41,0.8,True,True,keras,0.49,master's degree,B2,0
+Raymond Lowe,8.3,56,0.6,True,False,tensorflow,0.4,PhD,C1,1
+Michelle Baker,13.4,94,0.7,False,False,tensorflow,0.4,bachelor's degree,B1,1
+Mr. Daniel Williams,14.9,45,0.4,True,True,tensorflow,0.4,PhD,C2,0
+Gina Mack,8.3,29,0.6,False,True,tensorflow,0.4,PhD,B1,0
+Andrew Ramirez,1.1,56,0.5,False,True,theano,0.47,bachelor's degree,B1,0
+Robert Pope,9.4,23,0.8,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Bryan Smith,4.4,10,1.0,True,True,keras,0.48,bachelor's degree,B2,1
+Christopher Hanson MD,9.4,12,0.8,True,False,tensorflow,0.4,master's degree,B1,0
+Debra Deleon,13.5,66,0.7,True,False,torch,0.4,bachelor's degree,C1,1
+Teresa Johnson,13.7,83,0.4,True,True,tensorflow,0.4,bachelor's degree,C1,1
+Christopher Preston,14.3,81,0.8,False,True,tensorflow,0.4,bachelor's degree,B2,1
+David Schwartz,5.9,33,0.8,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Suzanne Vazquez,9.3,17,0.8,False,True,torch,0.4,master's degree,C1,1
+John Simmons,2.5,45,0.7,True,False,tensorflow,0.4,bachelor's degree,C1,0
+Michael Robertson,7.0,67,1.0,False,False,keras,0.5,bachelor's degree,B1,0
+William Smith,3.4,37,0.2,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Gregory Ochoa,1.2,50,1.0,False,False,tensorflow,0.4,bachelor's degree,C1,0
+Scott Burns,3.9,36,0.6,True,False,tensorflow,0.4,PhD,C2,1
+Daniel Hunter,10.5,26,1.0,False,True,keras,0.42,bachelor's degree,B1,0
+Theresa Williams,4.2,93,0.5,True,False,tensorflow,0.4,PhD,C1,1
+Joanne Hudson,9.0,38,1.0,True,True,torch,0.4,bachelor's degree,C2,1
+Emily Ashley,2.0,44,1.0,True,False,tensorflow,0.4,master's degree,B2,0
+Brandon Trujillo,12.3,91,0.8,True,False,torch,0.4,bachelor's degree,C1,1
+Jennifer Moore,6.2,78,0.3,True,True,tensorflow,0.4,bachelor's degree,C1,1
+Joseph Warner,9.2,75,0.6,True,False,tensorflow,0.4,master's degree,C1,1
+Patrick Pearson,1.2,39,1.0,True,True,theano,0.48,bachelor's degree,C1,0
+Mason Dominguez,13.0,14,0.8,False,True,tensorflow,0.4,master's degree,B1,0
+Luke Ingram,0.4,42,0.4,False,False,torch,0.4,bachelor's degree,C2,0
+Jamie Edwards,11.7,27,1.0,False,False,tensorflow,0.4,bachelor's degree,B2,1
+Robert Thomas,14.8,58,1.0,False,False,torch,0.4,bachelor's degree,A2,0
+Jonathan Pollard,5.7,35,0.8,True,False,torch,0.4,master's degree,B2,1
+Dalton Nichols,5.7,95,0.4,True,True,torch,0.4,bachelor's degree,C1,1
+Lawrence Coffey,12.4,58,0.2,True,True,theano,0.42,bachelor's degree,C2,0
+James Baker,12.6,10,1.0,True,False,torch,0.4,bachelor's degree,B2,1
+Donna Murphy,0.2,64,0.2,True,False,torch,0.4,bachelor's degree,A2,0
+Kristin Guerrero,13.0,90,0.6,True,False,tensorflow,0.4,bachelor's degree,B1,1
+Brian Medina,8.0,14,0.7,True,False,tensorflow,0.4,bachelor's degree,A2,0
+Joseph Abbott,14.9,62,1.0,True,False,theano,0.5,bachelor's degree,C1,1
+Helen Haley,8.8,62,1.0,False,False,theano,0.46,bachelor's degree,B2,1
+Samantha Anderson MD,14.2,83,1.0,False,False,tensorflow,0.4,bachelor's degree,C2,1
+Brian Stewart,5.7,94,0.7,True,True,tensorflow,0.4,bachelor's degree,B1,1
+Alyssa Wagner,6.8,10,0.8,False,True,torch,0.4,PhD,C1,1
+Kelsey Tran,14.3,86,0.5,True,False,theano,0.43,master's degree,C1,1
+Kristen Bryan,3.1,74,0.8,True,True,tensorflow,0.4,bachelor's degree,C1,1
+Jodi Ho,10.1,41,1.0,True,True,tensorflow,0.4,bachelor's degree,C1,1
+Tonya Mendez,0.7,81,0.7,True,True,tensorflow,0.4,bachelor's degree,C1,1
+John Harvey,0.3,43,0.5,True,True,tensorflow,0.4,bachelor's degree,A2,0
+Christopher Davies,7.1,12,0.8,True,True,keras,0.48,master's degree,B1,0
+Benjamin Hayden,7.8,21,1.0,False,True,keras,0.42,bachelor's degree,A2,0
+Karen Taylor,12.2,14,0.5,True,True,theano,0.45,bachelor's degree,C1,1
+Aaron Chen,1.3,66,1.0,True,False,torch,0.4,bachelor's degree,B2,0
+Daisy Collins,8.8,56,1.0,False,True,tensorflow,0.4,PhD,C1,1
+Stephanie Huffman,6.3,94,0.8,False,False,torch,0.4,master's degree,C2,1
+Natalie Morgan,9.6,84,0.8,True,True,torch,0.4,bachelor's degree,C2,1
+Lori Fleming,3.2,47,0.5,False,False,keras,0.49,master's degree,C1,1
+Robert Herrera,9.3,47,0.7,True,True,torch,0.4,master's degree,C1,1
+Harold Moses,9.1,91,1.0,False,True,tensorflow,0.4,master's degree,B1,1
+Tara Martinez,5.9,100,1.0,True,False,torch,0.4,bachelor's degree,A2,1
+Zachary Wright,1.4,61,0.7,True,False,tensorflow,0.4,master's degree,A2,0
+Danielle Wilson DDS,8.2,97,1.0,False,True,keras,0.42,bachelor's degree,C1,1
+Courtney Hughes,13.7,39,0.7,True,False,torch,0.4,bachelor's degree,B2,1
+Anthony Pearson,9.3,60,0.8,True,False,tensorflow,0.4,bachelor's degree,B1,0
+Erika Ortiz,10.5,38,1.0,False,False,torch,0.4,bachelor's degree,A2,0
+Cameron Franco,2.2,65,1.0,True,True,tensorflow,0.4,bachelor's degree,C1,0
+Jessica Russell,12.6,26,0.6,True,False,torch,0.4,bachelor's degree,C2,1
+Sabrina Scott,3.9,97,0.5,False,True,torch,0.4,PhD,C1,1
+Kristi Hudson,0.7,15,0.7,False,False,tensorflow,0.4,bachelor's degree,C2,0
+Dean Martinez,7.4,86,0.5,False,False,keras,0.47,bachelor's degree,C1,1
+Danny Jackson,3.1,52,1.0,True,False,torch,0.4,bachelor's degree,C2,1
+Bobby Anderson,3.6,32,0.5,True,False,tensorflow,0.4,PhD,B2,1
+Larry Romero,1.9,84,1.0,True,True,torch,0.4,bachelor's degree,C2,1
+Dustin Richards,2.1,17,0.8,True,False,keras,0.47,bachelor's degree,B2,0
+Brianna Foster,2.7,13,0.5,True,True,tensorflow,0.4,bachelor's degree,B2,0
+Thomas Walls,5.2,76,0.3,True,False,tensorflow,0.4,master's degree,C1,1
+Miss Andrea Frazier,13.1,36,0.8,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Pamela Bowman,10.0,59,0.8,False,True,tensorflow,0.4,bachelor's degree,B1,0
+Vanessa Salinas,9.0,60,1.0,False,False,tensorflow,0.4,bachelor's degree,A2,0
+Michael Sanchez,0.6,14,0.5,True,False,torch,0.4,bachelor's degree,B2,0
+Rita Erickson,5.2,51,0.6,True,False,torch,0.4,bachelor's degree,A2,0
+Melissa Estrada,2.7,30,0.8,True,False,torch,0.4,bachelor's degree,B2,0
+Joy Martinez,8.2,14,1.0,False,False,tensorflow,0.4,bachelor's degree,C1,1
+Jennifer Garcia,6.9,99,1.0,True,True,keras,0.43,bachelor's degree,B2,1
+Victoria Ellis,13.4,58,0.8,True,True,keras,0.49,PhD,C1,1
+Jason Lopez,7.6,54,0.7,True,True,keras,0.47,master's degree,A2,0
+Lisa Oliver,4.8,35,1.0,False,False,tensorflow,0.4,PhD,B2,1
+Melissa Glover,12.0,95,0.8,True,True,tensorflow,0.4,PhD,B2,1
+Emily Smith,1.2,72,0.8,False,True,keras,0.47,master's degree,C1,1
+Melissa Howard,5.7,90,1.0,True,False,theano,0.45,master's degree,C2,1
+Laura Martinez,4.2,10,0.7,True,True,keras,0.47,bachelor's degree,C2,1
+Alexandra Schroeder,1.3,61,0.7,True,True,torch,0.4,bachelor's degree,C1,0
+Susan Alvarez,3.1,65,0.8,False,False,tensorflow,0.4,bachelor's degree,C2,1
+Mr. James Watts,7.3,99,0.7,True,True,tensorflow,0.4,bachelor's degree,B1,1
+Suzanne Casey,11.4,87,0.5,True,False,torch,0.4,bachelor's degree,A2,1
+Samantha Dickson,6.9,35,0.7,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Nicholas Lewis,0.6,65,0.6,True,False,torch,0.4,bachelor's degree,B2,0
+Brianna Thomas,2.0,12,0.6,True,True,torch,0.4,master's degree,C1,0
+Michael Ramsey,13.4,27,0.8,False,False,theano,0.43,PhD,B1,0
+Frances Moyer,6.7,24,0.5,True,True,torch,0.4,master's degree,C1,1
+Kyle Gomez Jr.,1.6,37,0.5,True,True,tensorflow,0.4,bachelor's degree,C2,0
+Darrell Wright,0.3,66,0.8,False,False,theano,0.42,master's degree,C1,0
+Samantha Medina,12.6,95,1.0,True,False,tensorflow,0.4,bachelor's degree,C2,1
+Timothy Ortega,4.9,53,0.5,True,False,theano,0.48,bachelor's degree,C2,1
+Alexander Moore,3.5,22,0.8,True,False,tensorflow,0.4,bachelor's degree,B1,0
+Amy Edwards,8.9,77,0.5,True,True,torch,0.4,PhD,C1,1
+Barry Stokes,5.3,27,0.4,False,True,tensorflow,0.4,bachelor's degree,C2,0
+Christopher James,1.3,95,1.0,True,True,keras,0.44,bachelor's degree,C1,1
+Rachel Ryan,8.8,17,0.8,False,False,tensorflow,0.4,bachelor's degree,C2,1
+Brittany Anderson,8.8,92,0.8,False,False,tensorflow,0.4,bachelor's degree,C1,1
+Brittany Swanson,5.7,15,0.7,False,True,torch,0.4,bachelor's degree,B1,0
+Erika Brennan,13.5,73,0.5,False,False,theano,0.47,bachelor's degree,B1,1
+Tyler Turner,8.6,65,0.6,True,True,torch,0.4,bachelor's degree,B2,1
+Joseph Carter,7.5,79,0.7,True,True,tensorflow,0.4,PhD,C1,1
+Julie Garcia,9.1,42,0.8,True,True,torch,0.4,bachelor's degree,A2,0
+Patrick Holmes Jr.,0.1,30,0.5,True,True,keras,0.47,master's degree,C1,0
+James Ray,2.3,13,0.8,True,True,keras,0.44,bachelor's degree,A2,0
+Glenda Richardson,12.8,71,0.8,True,False,keras,0.41,PhD,C1,1
+Christopher Hayes,4.3,33,1.0,False,False,tensorflow,0.4,PhD,A2,0
+Theresa Wolfe,13.5,12,0.8,False,False,torch,0.4,master's degree,C2,1
+Karen Marshall,7.9,49,0.8,False,False,tensorflow,0.4,bachelor's degree,B1,0
+Eric Larsen,10.5,33,1.0,True,True,tensorflow,0.4,bachelor's degree,A2,0
+Sarah Scott,1.7,75,0.7,True,True,tensorflow,0.4,bachelor's degree,B2,1
+Sherry Olsen,8.6,84,0.6,True,True,theano,0.46,master's degree,C2,1
+Amy Sanders,13.0,15,0.7,True,True,torch,0.4,bachelor's degree,B2,1
+Joseph Ward,14.6,60,0.5,True,True,torch,0.4,bachelor's degree,B2,1
+Nicole Stephens,12.3,75,0.5,True,False,tensorflow,0.4,master's degree,A2,1
+Jocelyn Mayer,8.4,17,0.3,True,False,torch,0.4,bachelor's degree,C1,0
+Christine Moore,7.1,54,0.8,False,False,theano,0.48,master's degree,B2,1
+Brandi Martinez,11.5,79,0.8,True,True,tensorflow,0.4,master's degree,B1,1
+Brianna Shea,14.5,77,0.6,True,False,torch,0.4,master's degree,C2,1
+Amanda Thomas,6.4,29,0.0,False,True,keras,0.44,bachelor's degree,B1,0
+Sheila Gibbs,3.6,56,1.0,True,False,tensorflow,0.4,master's degree,B2,1
+Randy King,10.6,23,0.8,True,True,keras,0.44,master's degree,C2,1
+Gary Jackson,4.3,46,0.8,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Jenna Johnson,7.6,86,0.7,False,False,torch,0.4,bachelor's degree,B1,1
+James Romero,8.0,42,1.0,True,True,tensorflow,0.4,bachelor's degree,C2,1
+Mary Fuller,5.5,19,0.8,True,True,torch,0.4,bachelor's degree,B2,1
+Daniel Hawkins,8.2,19,1.0,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Tyler Henson,14.8,22,0.8,False,True,keras,0.42,master's degree,C1,1
+Christopher Watson,10.3,93,1.0,True,True,tensorflow,0.4,master's degree,C1,1
+Benjamin Moody,3.8,82,0.7,True,False,torch,0.4,bachelor's degree,B2,1
+Jennifer Fowler,11.4,84,0.5,True,True,torch,0.4,PhD,B2,1
+Michelle Gray,7.1,47,0.8,True,True,keras,0.46,bachelor's degree,C1,1
+Jose Baker,6.2,58,1.0,True,True,tensorflow,0.4,bachelor's degree,A2,0
+Brandy Luna,12.8,69,0.5,False,False,keras,0.46,bachelor's degree,B1,0
+Eric Davenport,14.5,87,0.5,False,False,keras,0.46,master's degree,A2,1
+Nathan Houston,14.0,84,0.3,True,False,torch,0.4,bachelor's degree,B2,1
+Justin Frazier,14.1,85,0.5,True,True,keras,0.48,bachelor's degree,C2,1
+Zachary Fisher,5.7,10,0.8,True,True,keras,0.46,bachelor's degree,C1,1
+Mr. Joshua Diaz DDS,11.1,31,1.0,True,True,torch,0.4,bachelor's degree,B2,1
+Mary Gordon MD,0.7,81,1.0,True,False,theano,0.49,bachelor's degree,B1,0
+David Reed,12.4,23,1.0,True,False,keras,0.44,PhD,B1,0
+Diane Osborne,12.0,44,0.8,True,True,torch,0.4,master's degree,B2,1
+Kevin Perez,2.5,14,0.4,False,True,torch,0.4,bachelor's degree,C1,0
+Ashley Martinez,3.5,87,0.7,True,False,keras,0.43,bachelor's degree,B2,1
+Jasmine Cochran,7.8,13,1.0,True,False,torch,0.4,master's degree,B2,1
+Kenneth Dixon,4.7,51,0.2,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Andrea Mayo,5.9,49,0.8,True,False,torch,0.4,bachelor's degree,C2,1
+Michael Patterson,6.8,23,0.8,False,True,torch,0.4,master's degree,C1,1
+Frank Hall,13.5,47,0.3,False,True,theano,0.43,PhD,B2,0
+Shannon Hardin,8.1,72,0.7,True,True,theano,0.47,bachelor's degree,C2,1
+Anthony Tran,7.5,34,0.8,True,False,tensorflow,0.4,master's degree,C2,1
+Sheryl Aguirre,5.3,75,0.8,True,True,tensorflow,0.4,PhD,B2,1
+Richard Nelson,8.2,60,0.8,False,False,tensorflow,0.4,master's degree,B1,0
+Karen Jones,8.1,79,0.8,True,False,keras,0.42,bachelor's degree,B2,1
+Kayla Cunningham,14.1,16,0.7,False,True,tensorflow,0.4,PhD,C1,1
+Antonio Johnson,11.0,51,0.5,False,True,keras,0.48,bachelor's degree,B1,0
+Wesley Spears,2.1,24,0.4,True,True,keras,0.45,master's degree,A2,0
+Dana Roberts,13.2,42,1.0,True,False,keras,0.41,bachelor's degree,B1,0
+Kenneth Villarreal,8.0,36,0.7,True,True,torch,0.4,bachelor's degree,B1,0
+Sarah Hensley,11.8,47,0.5,False,False,theano,0.41,master's degree,B2,1
+Lauren Hanson,11.3,36,0.8,True,False,theano,0.44,bachelor's degree,C1,1
+Jennifer Martinez,11.2,77,0.7,False,False,tensorflow,0.4,bachelor's degree,B2,1
+Nicole Smith,8.5,19,0.2,True,True,theano,0.41,bachelor's degree,B1,0
+Erin Chavez,7.4,83,0.7,True,True,keras,0.46,bachelor's degree,C1,1
+Emily Turner,5.1,47,0.8,False,False,keras,0.44,bachelor's degree,A2,0
+Jesse Luna,8.0,56,0.7,True,False,torch,0.4,master's degree,B2,1
+Katelyn Eaton,12.7,97,0.5,False,True,torch,0.4,bachelor's degree,C1,1
+Jay Ponce,9.1,24,0.5,True,True,tensorflow,0.4,bachelor's degree,C2,1
+Jacob Campbell,12.0,14,0.3,True,False,tensorflow,0.4,master's degree,C1,0
+Lisa Hernandez,7.3,77,0.8,True,False,tensorflow,0.4,master's degree,C1,1
+Veronica Anderson,10.8,11,0.5,True,False,torch,0.4,master's degree,C1,1
+Rachel Ball,0.2,45,0.0,True,False,tensorflow,0.4,bachelor's degree,C1,0
+Timothy Green,8.1,52,1.0,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Luke Harding,9.0,29,0.8,True,False,tensorflow,0.4,bachelor's degree,C1,1
+Amanda Nguyen,2.7,83,1.0,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Felicia Stark,5.1,15,1.0,True,True,tensorflow,0.4,PhD,C1,1
+Joshua Gutierrez,6.0,56,0.5,True,True,tensorflow,0.4,bachelor's degree,B1,0
+Sally Lester,4.3,21,0.7,True,True,torch,0.4,master's degree,C1,1
+Sandra Perez,13.7,71,0.4,False,False,torch,0.4,bachelor's degree,C1,1
+Melanie Davis,1.5,69,0.6,True,False,torch,0.4,bachelor's degree,B2,0
+Erin Duncan,8.9,77,1.0,False,True,tensorflow,0.4,bachelor's degree,C2,1
+Donald White,11.9,46,0.5,True,True,torch,0.4,master's degree,C1,1
+Cynthia Day,10.6,40,0.7,False,False,tensorflow,0.4,bachelor's degree,C2,1
+Mark Taylor,9.1,60,0.5,False,True,torch,0.4,bachelor's degree,C1,1
+Keith Harris,11.0,49,0.8,True,False,torch,0.4,bachelor's degree,B2,1
+Gary Smith,12.6,20,0.7,False,True,theano,0.44,PhD,B2,1
+Daryl Johnston,6.8,55,0.8,True,False,theano,0.49,bachelor's degree,C1,1
+John Coleman,3.5,99,0.7,False,False,tensorflow,0.4,master's degree,B2,1
+Tyler Rivera,12.6,63,0.8,True,False,tensorflow,0.4,master's degree,B2,1
+Deborah Saunders,12.6,10,0.5,True,True,tensorflow,0.4,master's degree,C1,1
+Donald Flores,13.0,64,0.0,True,False,tensorflow,0.4,bachelor's degree,B2,0
+Gloria Johnson,3.4,24,1.0,True,True,torch,0.4,master's degree,C1,1
+Danielle Fields,6.0,82,0.6,True,False,torch,0.4,master's degree,B2,1
+Ivan Cox,11.2,83,1.0,True,True,keras,0.45,master's degree,C2,1
+Paige Carrillo,12.0,35,0.6,False,True,torch,0.4,bachelor's degree,B1,0
+Sarah Hoffman,5.0,72,1.0,True,False,torch,0.4,bachelor's degree,B2,1
+Shannon Rogers,6.2,99,1.0,True,True,tensorflow,0.4,bachelor's degree,A2,1
+Charles Washington,13.8,11,0.8,True,False,keras,0.44,bachelor's degree,B2,1
+Beverly Wolfe,7.0,100,0.8,False,True,tensorflow,0.4,master's degree,C2,1
+Rita Shelton,11.1,26,0.4,False,False,torch,0.4,master's degree,B2,0
+Jaime Johnson,8.8,68,0.3,True,True,tensorflow,0.4,master's degree,C2,0
+Andrew Nelson,6.8,60,0.5,True,False,torch,0.4,bachelor's degree,B2,1
+Robert Jackson,3.7,34,0.2,True,False,keras,0.47,bachelor's degree,B1,0
+Carolyn Mayo,7.5,79,0.5,True,True,tensorflow,0.4,master's degree,B1,1
+Lynn Lopez,0.5,42,0.8,True,True,keras,0.42,bachelor's degree,B2,0
+Joseph Anderson,5.4,72,0.8,False,True,tensorflow,0.4,master's degree,C2,1
+Michelle Rojas,4.2,35,1.0,False,True,tensorflow,0.4,bachelor's degree,B2,1
+Tracy Newman,0.2,94,0.6,True,False,torch,0.4,bachelor's degree,C2,1
+Matthew Clayton,7.7,90,0.8,False,False,tensorflow,0.4,master's degree,C2,1
+Priscilla Sullivan,14.4,58,0.5,True,True,keras,0.43,bachelor's degree,C1,1
+Michelle Casey,8.4,95,0.5,False,True,torch,0.4,bachelor's degree,A2,1
+Tiffany Lee,1.3,70,0.7,False,False,tensorflow,0.4,master's degree,C1,1
+Lynn Martinez,2.8,80,0.8,False,True,tensorflow,0.4,bachelor's degree,B1,0
+Joshua Johnson Jr.,8.9,22,0.7,False,False,tensorflow,0.4,bachelor's degree,B1,0
+Sonya Phillips,6.0,60,0.5,False,False,theano,0.45,bachelor's degree,C1,1
+Patrick Marquez,3.1,92,0.8,True,False,tensorflow,0.4,PhD,B1,1
