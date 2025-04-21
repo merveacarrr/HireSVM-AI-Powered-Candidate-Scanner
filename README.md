@@ -11,7 +11,8 @@
 </div>
 
 <div align="center">
-  <img src="https://your-image-url.com/project-logo.png" alt="HireSVM Logo" width="200"/>
+
+  <img src="https://github.com/user-attachments/assets/51a86c67-41ce-431d-99fa-a1b96d7dfa9d" alt="HireSVM Logo" width="200"/>
   <p><i>Yapay Zeka Destekli Akıllı İşe Alım Asistanı</i></p>
 </div>
 
